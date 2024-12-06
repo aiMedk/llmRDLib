@@ -1,0 +1,2 @@
+[console_scripts]
+llmRDLib = llmRDLib.cmd_line:main

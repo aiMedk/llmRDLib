@@ -1,0 +1,9 @@
+llmRDLib/__pycache__/
+*.pyc
+*.pyo
+.env
+llmRDLib/dist/
+llmRDLib/build/
+llmRDLib/llmRDLib.egg-info
+llmRD/
+__pycache__/
