@@ -13,7 +13,7 @@ def main():
 
     response = ollama_client.chat(model=args.model, content=args.content)
 
-    print(response)
-t
+    print(response['message']['content'])
+
 if __name__ == '__main__':
     main()
