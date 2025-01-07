@@ -7,4 +7,5 @@ llmRDLib/build/
 llmRDLib/llmRDLib.egg-info
 llmRD/llmRDLib.egg-info
 llmRD/
+gitdoc.ipynb
 __pycache__/
